@@ -1,3 +1,4 @@
 primer texto ingresado
 starcleargitvccomm
 PAra realizar mi cuarto commit
+Pruebas git log --graph
