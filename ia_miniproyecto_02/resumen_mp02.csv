@@ -1,0 +1,5 @@
+metric,valor
+duplicados_eliminados,1
+na_inicial,"{'nombre': 0, 'edad': 9, 'score': 10}"
+na_final,"{'nombre': 0, 'edad': 9, 'score': 0}"
+outliers_ajustados,{'score': 6}

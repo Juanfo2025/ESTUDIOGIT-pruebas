@@ -1,0 +1,21 @@
+nombre,edad,score
+Ana,23,80
+Luis,34,90
+Sofía,29,75
+Pedro,,88
+Ana,23,80
+María,41,300
+Julián,22,
+Carla,200,65
+
+# Contar duplicados
+dup_count = df.duplicated().sum()
+print("Duplicados encontrados:", dup_count)
+
+# Contar valores faltantes por columna
+print("\nValores faltantes por columna:")
+print(df.isna().sum())
+
+# Ver estadísticas generales (para detectar outliers)
+print("\nEstadísticas del dataset:")
+print(df.describe())
