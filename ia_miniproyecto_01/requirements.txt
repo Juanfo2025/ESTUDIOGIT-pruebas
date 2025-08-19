@@ -1,3 +1,6 @@
 ﻿numpy
 pandas
 matplotlib
+jupyter
+nbformat
+nbconvert
