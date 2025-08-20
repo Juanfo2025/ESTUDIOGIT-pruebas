@@ -1,0 +1,13 @@
+=== mp03 – Conclusiones comparativas (antes vs. después) ===
+
+- edad:
+  count sin NaN: 7 → 6
+  min:           22.0 → 22.0
+  mediana:       29.0 → 31.5
+  max:           200.0 → 200.0
+
+- score:
+  count sin NaN: 7 → 16
+  min:           65.0 → 84.0
+  mediana:       80.0 → 84.0
+  max:           300.0 → 84.0
